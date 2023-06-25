@@ -2,7 +2,7 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
-## Vue 3(ScriptSetup) + Vite + ElementPlus + Pinia + VueRouter + Axios
+## Vue 3(ScriptSetup) +Js + Vite + ElementPlus + Pinia + VueRouter + Axios
 
 ## Recommended IDE Setup
 
